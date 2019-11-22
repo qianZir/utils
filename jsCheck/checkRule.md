@@ -477,6 +477,3 @@ const onePoint = (rule, value, callback) => {
   }
 };
 ```
-
-
-// 公众号【小夭同学】
